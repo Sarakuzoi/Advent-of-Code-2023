@@ -1,6 +1,6 @@
 # Advent of Code 2023 🎄
 
-My attempt at solving problems from [Advent of Code 2023](https://adventofcode.com/), in Rust and Python.
+My attempt at solving problems from [Advent of Code 2023](https://adventofcode.com/), in Rust and Python. Feel free to provide feedback regarding solutions or project structure.
 
 ## Rust and Python Split
 
@@ -10,7 +10,7 @@ Here I will keep track of which problem is solved in which programming language.
 |                                             | Rust                                                                 | Python                       |
 |:--------------------------------------------|:---------------------------------------------------------------------|:-----------------------------|
 | [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs) |                              |
-| [Day 2](https://adventofcode.com/2023/day/1)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs) |                              |
+| [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs) |                              |
 
 ## How to run solutions
 
