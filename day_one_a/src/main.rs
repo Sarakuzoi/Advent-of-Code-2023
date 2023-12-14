@@ -6,7 +6,7 @@ fn main() {
     for line in input.lines() {
         sum += extract_number(line);
     }
-    println!("The result is {sum}");
+    println!("{sum}");
 }
 
 fn extract_number(line: &str) -> i32 {
