@@ -7,10 +7,11 @@ My attempt at solving problems from [Advent of Code 2023](https://adventofcode.c
 Since I wish to practice both Python and Rust, I will be solving problems in both languages.
 Here I will keep track of which problem is solved in which programming language. Hope it clears things up!
 
-|                                             | Rust                                                                 | Python                       |
-|:--------------------------------------------|:---------------------------------------------------------------------|:-----------------------------|
-| [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs) |                              |
-| [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs) |                              |
+|                                             | Rust                                                                 | Python                                                       |
+|:--------------------------------------------|:---------------------------------------------------------------------|:-------------------------------------------------------------|
+| [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs) |                                                              |
+| [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs) |                                                              |
+| [Day 3](https://adventofcode.com/2023/day/3)|                                                                      | [Part A](./day_three_a/solution.py), [Part B](./day_three_b/)|
 
 ## How to run solutions
 
