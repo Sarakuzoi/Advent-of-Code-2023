@@ -12,6 +12,7 @@ Here I will keep track of which problem is solved in which programming language.
 | [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs) |                                                              |
 | [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs) |                                                              |
 | [Day 3](https://adventofcode.com/2023/day/3)|                                                                      | [Part A](./day_three_a/solution.py), [Part B](./day_three_b/)|
+| [Day 4](https://adventofcode.com/2023/day/4)|                                                                      | [Part A](./day_four_a/solution.py), [Part B](./day_four_b/)  |
 
 ## How to run solutions
 
