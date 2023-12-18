@@ -39,7 +39,6 @@ fn main() -> Result<(), std::io::Error> {
     input.read_to_string(&mut contents)?;
 
     let mut seeds = extract_seeds(&contents);
-    println!("{:?}", seeds);
     let mut converters: Vec<Converter> = Vec::new();
 
     let mut id = 0;
@@ -86,7 +85,6 @@ fn extract_seeds(contents: &str) -> Vec<(i64, i64)> {
     let mut it = contents.lines().next().unwrap().split(" ").into_iter();
     it.next();
     while let Some(x) = it.next() {
-        println!("{x}");
         seeds.push((
             x.parse::<i64>().expect("Input was not a number"),
             it.next()
