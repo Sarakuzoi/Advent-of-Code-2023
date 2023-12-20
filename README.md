@@ -7,17 +7,17 @@ My attempt at solving problems from [Advent of Code 2023](https://adventofcode.c
 Since I wish to practice both Python and Rust, I will be solving problems in both languages.
 Here I will keep track of which problem is solved in which programming language. Hope it clears things up!
 
-|                                             | Rust                                                                    | Python                                                       |
-|:--------------------------------------------|:------------------------------------------------------------------------|:-------------------------------------------------------------|
-| [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs)    |                                                              |
-| [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs)    |                                                              |
-| [Day 3](https://adventofcode.com/2023/day/3)|                                                                         | [Part A](./day_three_a/solution.py), [Part B](./day_three_b/)|
-| [Day 4](https://adventofcode.com/2023/day/4)|                                                                         | [Part A](./day_four_a/solution.py), [Part B](./day_four_b/)  |
-| [Day 5](https://adventofcode.com/2023/day/5)| [Part A](./day_five_a/src/main.rs), [Part B](./day_five_b/src/main.rs)  |                                                              |
-| [Day 6](https://adventofcode.com/2023/day/6)| [Part A](./day_six_a/src/main.rs), [Part B](./day_six_b/src/main.rs)    |                                                              |
-| [Day 7](https://adventofcode.com/2023/day/7)| [Part A](./day_seven_a/src/main.rs), [Part B](./day_seven_b/src/main.rs)|                                                              |
-| [Day 8](https://adventofcode.com/2023/day/8)| [Part A](./day_eight_a/src/main.rs), [Part B](./day_eight_b/src/main.rs)|                                                              |
-
+|                                             | Rust                                                                    | Python                                                                        |
+|:--------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| [Day 1](https://adventofcode.com/2023/day/1)| [Part A](./day_one_a/src/main.rs), [Part B](./day_one_b/src/main.rs)    |                                                                               |
+| [Day 2](https://adventofcode.com/2023/day/2)| [Part A](./day_two_a/src/main.rs), [Part B](./day_two_b/src/main.rs)    |                                                                               |
+| [Day 3](https://adventofcode.com/2023/day/3)|                                                                         | [Part A](./day_three_a/solution.py), [Part B](./day_three_b/solution.py)      |
+| [Day 4](https://adventofcode.com/2023/day/4)|                                                                         | [Part A](./day_four_a/solution.py), [Part B](./day_four_b/solution.py)        |
+| [Day 5](https://adventofcode.com/2023/day/5)| [Part A](./day_five_a/src/main.rs), [Part B](./day_five_b/src/main.rs)  |                                                                               |
+| [Day 6](https://adventofcode.com/2023/day/6)| [Part A](./day_six_a/src/main.rs), [Part B](./day_six_b/src/main.rs)    |                                                                               |
+| [Day 7](https://adventofcode.com/2023/day/7)| [Part A](./day_seven_a/src/main.rs), [Part B](./day_seven_b/src/main.rs)|                                                                               |
+| [Day 8](https://adventofcode.com/2023/day/8)| [Part A](./day_eight_a/src/main.rs), [Part B](./day_eight_b/src/main.rs)|                                                                               |
+| [Day 9](https://adventofcode.com/2023/day/9)|                                                                         | [Part A](./day_nine_a/solution.py), [Part B](./day_nine_b/solution.py)        |
 ## How to run solutions
 
 Each project contains a `input.txt` file, with the puzzle input. 
