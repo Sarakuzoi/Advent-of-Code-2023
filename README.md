@@ -7,8 +7,8 @@ My attempt at solving problems from [Advent of Code 2023](https://adventofcode.c
 Since I wish to practice both Python and Rust, I will be solving problems in both languages.
 Here I will keep track of which problem is solved in which programming language. Hope it clears things up!
 
-|                                               | Rust                                                                    | Python                                                                        |
-|:----------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+|                                               | Rust                                                              | Python                                                                |
+:-----------------------------------------------:-------------------------------------------------------------------:-----------------------------------------------------------------------|
 | [Day 1](https://adventofcode.com/2023/day/1)  | [Part A](./day_1_a/src/main.rs), [Part B](./day_1_b/src/main.rs)  |                                                                       |
 | [Day 2](https://adventofcode.com/2023/day/2)  | [Part A](./day_2_a/src/main.rs), [Part B](./day_2_b/src/main.rs)  |                                                                       |
 | [Day 3](https://adventofcode.com/2023/day/3)  |                                                                   | [Part A](./day_3_a/solution.py), [Part B](./day_3_b/solution.py)      |
@@ -19,6 +19,7 @@ Here I will keep track of which problem is solved in which programming language.
 | [Day 8](https://adventofcode.com/2023/day/8)  | [Part A](./day_8_a/src/main.rs), [Part B](./day_8_b/src/main.rs)  |                                                                       |
 | [Day 9](https://adventofcode.com/2023/day/9)  |                                                                   | [Part A](./day_9_a/solution.py), [Part B](./day_9_b/solution.py)      |
 | [Day 10](https://adventofcode.com/2023/day/10)|                                                                   | [Part A](./day_10_a/solution.py), [Part B](./day_10_b/solution.py)    |
+| [Day 11](https://adventofcode.com/2023/day/11)| [Part A](./day_11_a/src/main.rs), [Part B](./day_11_b/src/main.rs)|                                                                       |
 ## How to run solutions
 
 Each project contains a `input.txt` file, with the puzzle input. 
