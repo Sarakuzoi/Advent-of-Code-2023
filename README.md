@@ -8,7 +8,7 @@ Since I wish to practice both Python and Rust, I will be solving problems in bot
 Here I will keep track of which problem is solved in which programming language. Hope it clears things up!
 
 |                                               | Rust                                                              | Python                                                                |
-:-----------------------------------------------:-------------------------------------------------------------------:-----------------------------------------------------------------------|
+|:----------------------------------------------|:------------------------------------------------------------------|:----------------------------------------------------------------------|
 | [Day 1](https://adventofcode.com/2023/day/1)  | [Part A](./day_1_a/src/main.rs), [Part B](./day_1_b/src/main.rs)  |                                                                       |
 | [Day 2](https://adventofcode.com/2023/day/2)  | [Part A](./day_2_a/src/main.rs), [Part B](./day_2_b/src/main.rs)  |                                                                       |
 | [Day 3](https://adventofcode.com/2023/day/3)  |                                                                   | [Part A](./day_3_a/solution.py), [Part B](./day_3_b/solution.py)      |
