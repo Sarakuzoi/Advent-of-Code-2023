@@ -1,0 +1,20 @@
+[workspace]
+
+members = [
+    "day_1/day_1_a",
+    "day_1/day_1_b",
+    "day_2/day_2_a",
+    "day_2/day_2_b",
+    "day_5/day_5_a",
+    "day_5/day_5_b",
+    "day_6/day_6_a",
+    "day_6/day_6_b",
+    "day_7/day_7_a",
+    "day_7/day_7_b",
+    "day_8/day_8_a",
+    "day_8/day_8_b",
+    "day_11/day_11_a",
+    "day_11/day_11_b",
+    "day_13/day_13_a",
+    "day_13/day_13_b",
+]
