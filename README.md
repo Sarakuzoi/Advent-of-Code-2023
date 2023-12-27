@@ -20,6 +20,7 @@ Here I will keep track of which problem is solved in which programming language.
 | [Day 9](https://adventofcode.com/2023/day/9)  |                                                                   | [Part A](./day_9_a/solution.py), [Part B](./day_9_b/solution.py)      |
 | [Day 10](https://adventofcode.com/2023/day/10)|                                                                   | [Part A](./day_10_a/solution.py), [Part B](./day_10_b/solution.py)    |
 | [Day 11](https://adventofcode.com/2023/day/11)| [Part A](./day_11_a/src/main.rs), [Part B](./day_11_b/src/main.rs)|                                                                       |
+| [Day 12](https://adventofcode.com/2023/day/12)|                                                                   | [Part A](./day_12_a/solution.py), [Part B](./day_12_b/solution.py)    |
 ## How to run solutions
 
 Each project contains a `input.txt` file, with the puzzle input. 

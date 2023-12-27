@@ -17,6 +17,16 @@ def valid(line: str, groups: [int]) -> bool:
 def generate(springs, groups, ind) -> int:
     if "?" not in springs:
         return 1 if valid(springs, groups) else 0
+    size = 0
+    group_ind = 0
+    for i in range(ind + 1):
+        if springs[i] == "#":
+            size += 1
+        elif size != 0:
+            if group_ind >= len(groups) or groups[group_ind] != size:
+                return 0
+            size = 0
+            group_ind += 1
     for i in range(ind, len(springs)):
         if springs[i] == "?":
             ind = i
