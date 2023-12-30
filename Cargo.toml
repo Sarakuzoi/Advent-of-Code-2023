@@ -1,4 +1,6 @@
+
 [workspace]
+resolver = "2"
 
 members = [
     "day_1/day_1_a",
@@ -17,4 +19,6 @@ members = [
     "day_11/day_11_b",
     "day_13/day_13_a",
     "day_13/day_13_b",
+    "day_14/day_14_a",
+    "day_14/day_14_b",
 ]
