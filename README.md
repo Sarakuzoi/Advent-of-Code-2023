@@ -30,7 +30,7 @@ In order to run a solution in Rust, you will need to [install cargo](https://doc
 
 ```bash
 # Select a project, run its code
-cd day_1_a
+cd day_1/day_1_a
 cargo run --release
 ```
 
@@ -38,7 +38,7 @@ In order to run a solution in Python, you will need to [install python 3](https:
 
 ```bash
 # Select a project, run its code
-cd day_3_a
+cd day_3/day_3
 python3 solution.py
 ```
 
