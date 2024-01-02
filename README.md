@@ -24,6 +24,7 @@ Here I will keep track of which problem is solved in which programming language.
 | [Day 13](https://adventofcode.com/2023/day/13)| [Part A](./day_13/day_13_a/src/main.rs), [Part B](./day_13/day_13_b/src/main.rs)|                                                                                  |
 | [Day 14](https://adventofcode.com/2023/day/14)| [Part A](./day_14/day_14_a/src/main.rs), [Part B](./day_14/day_14_b/src/main.rs)|                                                                                  |
 | [Day 15](https://adventofcode.com/2023/day/15)| [Part A](./day_15/day_15_a/src/main.rs), [Part B](./day_15/day_15_b/src/main.rs)|                                                                                  |
+| [Day 16](https://adventofcode.com/2023/day/16)|                                                                                 | [Part A](./day_16/day_16_a/solution.py), [Part B](./day_16/day_16_b/solution.py) |
 ## How to run solutions
 
 Each project contains a `input.txt` file, with the puzzle input. 
