@@ -2,7 +2,6 @@ import heapq
 
 input = open("input.txt").readlines()
 m = {(i, j): int(c) for i, r in enumerate(input) for j, c in enumerate(r.strip())}
-heat = {(0, 0): 0}
 W = len(input[0].strip())
 H = len(input)
 vis = set()
