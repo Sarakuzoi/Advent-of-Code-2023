@@ -30,7 +30,13 @@ Here I will keep track of which problem is solved in which programming language.
 | [Day 19](https://adventofcode.com/2023/day/19)| [Part A](./day_19/day_19_a/src/main.rs), [Part B](./day_19/day_19_b/src/main.rs)|                                                                                  |
 ## How to run solutions
 
-Each project contains a `input.txt` file, with the puzzle input. 
+In order to respect the Advent of Code rules regarding puzzle inputs (more details [here](https://adventofcode.com/about#faq_copying)), please use the following commands and paste in your puzzle input in the input file (then C-d or to save):
+
+```bash
+cd day_1/day_1_a
+touch input.txt
+cat >> input.txt
+```
 
 In order to run a solution in Rust, you will need to [install cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html). Then, run any Rust project as such to see the solution:
 
